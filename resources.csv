@@ -1,0 +1,9 @@
+title,topic,level,description,tags
+Getting started with Python,Programming,Beginner,"Practice variables, conditions, loops, and functions with short examples.",python coding programming beginner syntax
+Understanding machine learning,Machine Learning,Intermediate,"Explore supervised learning, model training, and evaluation.",machine learning models classification regression data
+Natural language processing basics,NLP,Intermediate,"Learn tokenization, text features, embeddings, and language models.",nlp language text tokens embeddings transformers
+Responsible and ethical AI,AI Ethics,Beginner,"Review fairness, transparency, privacy, accountability, and oversight.",ethics fairness privacy transparency responsible ai
+Building accessible interfaces,HCI,Beginner,"Apply readable typography, keyboard access, contrast, and clear navigation.",hci accessibility usability interface design contrast
+Data visualization essentials,Data Science,Beginner,"Choose charts and communicate patterns clearly with data.",data science visualization charts analysis
+Neural networks in practice,Deep Learning,Advanced,"Study neural network layers, optimization, and model behavior.",deep learning neural networks training optimization
+Prompting and generative AI,Generative AI,Intermediate,"Practice writing prompts and evaluating generated responses.",generative ai prompts llm language models
